@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM centos7
 MAINTAINER ryotas
 
 RUN echo "#!/bin/sh" > hellogalaxy && \
